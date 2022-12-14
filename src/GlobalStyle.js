@@ -20,8 +20,13 @@ export const GlobalStyle = createGlobalStyle`
         color: white;
     }
 
+    input{
+        height: 30px;
+        width: 350px;
+    }
+
     Button{
-        width: 85px;
+        width: 300px;
     }
 
     .grid{

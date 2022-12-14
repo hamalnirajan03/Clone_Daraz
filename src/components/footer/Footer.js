@@ -108,7 +108,9 @@ const Footer = () => {
 
                 <div className="important-links">
                     <div className="payment">
-
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoTGNkO0TmSawy4xwxBazlFjo4lyXH4f_Zw&usqp=CAU" />
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7kSbRymbxFo4lwLOr1tPZQwAYBd1zaLegKA&usqp=CAU" />
+                        <img src="" />
                     </div>
 
                     <div className="international">

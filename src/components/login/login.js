@@ -68,21 +68,12 @@ const Wrapper = styled.section`
         align-items: center;
         justify-content: center;
 
-        .sub-login{
-
-          input{
-            height: 30px;
-            width: 350px;
-          }
-        }
+        
 
         .login-button{
           padding-left: 25px;
 
-          .button{
-            width: 300px;
-          /* padding-left: 30px; */
-          }
+          
         }
 
         
